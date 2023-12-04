@@ -1,0 +1,10 @@
+Dodatkowa misja Programisty:
+1. Kalkulator średniej oceny z przedmiotów. Program ma pytać użytkownika o
+oceny (podawane jako liczby całkowite) sumować je, a na końcu ma wyświetlić
+średnią z ocen.
+Przygotuj minimum 5 przedmiotów o które pytasz użytkownika.
+Podpowiedź (domyślnie niewidoczna, skopiuj tekst i wklej do notatnika aby ją zobaczyć)
+Podpowiedź 1 - Przygotuj zmienną suma_ocen na początku programu
+Podpowiedź 2 - Ustal kolejność przedmiotów o które pytasz
+Podpowiedź 3 - Po każdym pytaniu doliczaj do sumy ocen nowo wprowadzoną ocenę
+Podpowiedź 4 - Pamiętaj o konwersji danych. Funkcja input zwraca typ str

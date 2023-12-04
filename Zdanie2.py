@@ -1,0 +1,7 @@
+print(True, 25 < 140 and 10 ==  10)
+print(True, 100 >= 1 or 2 >  10)
+print(False, 25 < 14 or 10 != 10)
+print(False, -1 < 3 and 2 < 9 and 10 == 15)
+print(True, 20.05 < 21 < 10 or -10 < 20 < 150 <= 150)
+print(False, 1 < 10 and 2 < 15 and -50 == 42)
+print(True,not  2 == 10)
